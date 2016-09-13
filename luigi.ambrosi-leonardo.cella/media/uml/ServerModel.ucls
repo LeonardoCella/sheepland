@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.6" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" 
+    name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.server.model.Giocatore" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/server/model/Giocatore.java" 
+    binary="false" corner="BOTTOM_LEFT">    
+    <position height="-1" width="-1" x="335" y="154"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.server.model.Strada" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/server/model/Strada.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="186" y="1054"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.server.model.Regione" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/server/model/Regione.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="304" width="341" x="716" y="939"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.server.model.Ovino" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/server/model/Ovino.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1156" y="528"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.server.model.Mappa" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/server/model/Mappa.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="264" y="1564"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" 
+    name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.server.model.PecoraNera" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/server/model/PecoraNera.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="238" width="341" x="1471" y="447"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.server.model.Lupo" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/server/model/Lupo.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="886" y="1485"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.server.model.Tessera" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/server/model/Tessera.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-152" y="158"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.server.model.Pastore" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/server/model/Pastore.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="392" y="528"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.server.model.Recinto" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/server/model/Recinto.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-294" y="1056"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" 
+    name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.server.model.Soggetto" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/server/model/Soggetto.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="112" width="341" x="942" y="107"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" 
+    name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.server.model.StatoClient" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/server/model/StatoClient.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1506" y="1260"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.server.model.Luogo" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/server/model/Luogo.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="636" y="762"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" 
+    name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.server.model.LettoreMappa" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/server/model/LettoreMappa.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="138" width="341" x="-388" y="1401"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.server.model.Mazzi" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/server/model/Mazzi.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-153" y="690"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" 
+    name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.server.model.FlipFlop" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/server/model/FlipFlop.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-210" y="416"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="17">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="18" name="possedimenti"/>      
+      <multiplicity id="19" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="20">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="21" name="confini"/>      
+      <multiplicity id="22" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="23">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <association id="24">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="25" name="regione1"/>      
+      <multiplicity id="26" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="27">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <association id="28">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="29" name="posizioneLupo"/>      
+      <multiplicity id="30" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="31">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <association id="32">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="33" name="posizioneNera"/>      
+      <multiplicity id="34" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="35">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="36" name="giocatoreRiferimento"/>      
+      <multiplicity id="37" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="38">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="39" name="strade"/>      
+      <multiplicity id="40" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="41">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="42" name="istanza"/>      
+      <multiplicity id="43" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="44">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="45" name="posizioneCorrente"/>      
+      <multiplicity id="46" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="47">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <association id="48">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="49" name="posizioneCorrente">        
+        <position height="18" width="112" x="-111" y="1021"/>      
+      </attribute>      
+      <multiplicity id="50" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="51">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <association id="52">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="53" name="regioni"/>      
+      <multiplicity id="54" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="55">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="56" name="regione2"/>      
+      <multiplicity id="57" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="58">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="59" name="posizioneCorrente"/>      
+      <multiplicity id="60" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="61">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="62" name="pastori"/>      
+      <multiplicity id="63" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<mappa>
+
+	<reg id="0" ter="5"> <conf>2:8:9</conf> 
+	</reg>
+	<reg id="1" ter="0"> <conf>0:2:3:4</conf>
+	</reg>
+	<reg id="2" ter="0"> <conf>0:1:5</conf>
+	</reg>
+	<reg id="3" ter="5"> <conf>8:15:25:28</conf>
+	</reg>
+	<reg id="4" ter="0"> <conf>3:9:10:15:16:20</conf>
+	</reg>
+	<reg id="5" ter="1"> <conf>4:5:6:10:11:17</conf>
+	</reg>
+	<reg id="6" ter="1"> <conf>1:6:7:12</conf>
+	</reg>
+	<reg id="7" ter="2"> <conf>11:12:13:18:19:23</conf>
+	</reg>
+	<reg id="8" ter="1"> <conf>7:13:14</conf>
+	</reg>
+	<reg id="9" ter="5"> <conf>20:21:25:29:30:33</conf>
+	</reg>
+	<reg id="10" ter="4"> <conf>26:30:31:34:35:39</conf>
+	</reg>
+	<reg id="11" ter="3"> <conf>22:23:24:31:32:36</conf>
+	</reg>
+	<reg id="12" ter="2"> <conf>14:19:24:27</conf>
+	</reg>
+	<reg id="13" ter="4"> <conf>28:29:38</conf>
+	</reg>
+	<reg id="14" ter="4"> <conf>33:34:38:40</conf>
+	</reg>
+	<reg id="15" ter="3"> <conf>39:40:41</conf>
+	</reg>
+	<reg id="16" ter="3"> <conf>35:36:37:41</conf>
+	</reg>
+	<reg id="17" ter="2"> <conf>27:32:37</conf>
+	</reg>
+	<reg id="18" ter="6"> <conf>16:17:18:21:22:26</conf>
+	</reg>
+
+	<str id="0" dado="3"> <rSep>1:2</rSep>
+	</str>
+	<str id="1" dado="1"> <rSep>2:6</rSep>
+	</str>
+	<str id="2" dado="2"> <rSep>0:1</rSep>
+	</str>
+	<str id="3" dado="4"> <rSep>1:4</rSep>
+	</str>
+	<str id="4" dado="6"> <rSep>1:5</rSep>
+	</str>
+	<str id="5" dado="2"> <rSep>2:5</rSep>
+	</str>
+	<str id="6" dado="3"> <rSep>5:6</rSep>
+	</str>
+	<str id="7" dado="2"> <rSep>6:8</rSep>
+	</str>
+	<str id="8" dado="1"> <rSep>0:3</rSep>
+	</str>
+	<str id="9" dado="3"> <rSep>0:4</rSep>
+	</str>
+	<str id="10" dado="5"> <rSep>4:5</rSep>
+	</str>
+	<str id="11" dado="4"> <rSep>5:7</rSep>
+	</str>
+	<str id="12" dado="5"> <rSep>6:7</rSep>
+	</str>
+	<str id="13" dado="3"> <rSep>7:8</rSep>
+	</str>
+	<str id="14" dado="1"> <rSep>8:12</rSep>
+	</str>
+	<str id="15" dado="2"> <rSep>3:4</rSep>
+	</str>
+	<str id="16" dado="6"> <rSep>4:18</rSep>
+	</str>
+	<str id="17" dado="1"> <rSep>5:18</rSep>
+	</str>
+	<str id="18" dado="2"> <rSep>7:18</rSep>
+	</str>
+	<str id="19" dado="6"> <rSep>7:12</rSep>
+	</str>
+	<str id="20" dado="1"> <rSep>4:9</rSep>
+	</str>
+	<str id="21" dado="5"> <rSep>9:18</rSep>
+	</str>
+	<str id="22" dado="3"> <rSep>11:18</rSep>
+	</str>
+	<str id="23" dado="1"> <rSep>7:11</rSep>
+	</str>
+	<str id="24" dado="2"> <rSep>11:12</rSep>
+	</str>
+	<str id="25" dado="3"> <rSep>3:9</rSep>
+	</str>
+	<str id="26" dado="4"> <rSep>10:18</rSep>
+	</str>
+	<str id="27" dado="5"> <rSep>12:17</rSep>
+	</str>
+	<str id="28" dado="4"> <rSep>3:13</rSep>
+	</str>
+	<str id="29" dado="2"> <rSep>9:13</rSep>
+	</str>
+	<str id="30" dado="6"> <rSep>9:10</rSep>
+	</str>
+	<str id="31" dado="5"> <rSep>10:11</rSep>
+	</str>
+	<str id="32" dado="4"> <rSep>11:17</rSep>
+	</str>
+	<str id="33" dado="4"> <rSep>9:14</rSep>
+	</str>
+	<str id="34" dado="3"> <rSep>10:14</rSep>
+	</str>
+	<str id="35" dado="2"> <rSep>10:16</rSep>
+	</str>
+	<str id="36" dado="6"> <rSep>11:16</rSep>
+	</str>
+	<str id="37" dado="1"> <rSep>16:17</rSep>
+	</str>
+	<str id="38" dado="1"> <rSep>13:14</rSep>
+	</str>
+	<str id="39" dado="1"> <rSep>10:15</rSep>
+	</str>
+	<str id="40" dado="2"> <rSep>14:15</rSep>
+	</str>
+	<str id="41" dado="5"> <rSep>15:16</rSep>
+	</str>
+</mappa>

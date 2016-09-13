@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.6" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" 
+    name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.client.connection.PingSck" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/client/connection/PingSck.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1156" y="555"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="2" language="java" 
+    name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.client.connection.ICanaleClient" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/client/connection/ICanaleClient.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2764" y="662"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="3" language="java" 
+    name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.client.connection.PingRMI" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/client/connection/PingRMI.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1398" y="139"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" 
+    name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.client.connection.Ping" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/client/connection/Ping.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="702" y="56"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" 
+    name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.client.connection.ClientRMI" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/client/connection/ClientRMI.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2870" y="1059"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" 
+    name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.client.connection.EccClient" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/client/connection/EccClient.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="360" x="16" y="-5"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="7" language="java" 
+    name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.client.connection.IPing" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/client/connection/IPing.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="970" y="324"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="8" language="java" 
+    name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.client.connection.EccPing" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/client/connection/EccPing.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="198" y="478"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="9" language="java" 
+    name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.client.connection.IPingRem" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/client/connection/IPingRem.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1746" y="413"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="10" language="java" 
+    name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.client.connection.ClientSck" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/client/connection/ClientSck.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2335" y="1016"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="11" language="java" 
+    name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.client.connection.IClientRem" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/client/connection/IClientRem.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3072" y="1403"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="12" language="java" 
+    name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.server.connection.ICanaleServer" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/server/connection/ICanaleServer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1887" y="1383"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="13" language="java" 
+    name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.server.connection.IPong" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/server/connection/IPong.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1379" y="887"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="14" language="java" 
+    name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.server.connection.MessaggioStringa" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/server/connection/MessaggioStringa.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2439" y="95"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" 
+    name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.server.connection.Messaggio" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/server/connection/Messaggio.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="517" y="878"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" 
+    name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.server.connection.MessaggioServizio" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/server/connection/MessaggioServizio.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="221" y="1278"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" 
+    name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.server.connection.PongSck" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/server/connection/PongSck.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1427" y="1202"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="18" language="java" 
+    name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.server.connection.IPongRem" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/server/connection/IPongRem.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2399" y="282"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="19" language="java" 
+    name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.server.connection.ServerSck" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/server/connection/ServerSck.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1533" y="1629"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" 
+    name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.server.connection.EccCanale" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/server/connection/EccCanale.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="197" y="205"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="21" language="java" 
+    name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.server.connection.IServerRem" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/server/connection/IServerRem.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2473" y="1308"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="22" language="java" 
+    name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.server.connection.ServerRMI" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/server/connection/ServerRMI.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2397" y="1600"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="23" language="java" 
+    name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.server.connection.Stub" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/server/connection/Stub.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="197" y="352"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="24" language="java" 
+    name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.server.connection.PongRMI" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/server/connection/PongRMI.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1869" y="788"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" 
+    name="it.polimi.deib.provaFinale2014.luigi.ambrosi_leonardo.cella.server.connection.MessaggioMossa" 
+    project="luigi.ambrosi-leonardo.cella" 
+    file="/luigi.ambrosi-leonardo.cella/src/main/java/it/polimi/deib/provaFinale2014/luigi/ambrosi_leonardo/cella/server/connection/MessaggioMossa.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="757" y="1274"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="26">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="27" name="canaleComunicazione"/>      
+      <multiplicity id="28" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="29">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <realization id="30">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <realization id="31">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <association id="32">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="33" name="messaggio"/>      
+      <multiplicity id="34" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="35">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="36" name="pongRemoto"/>      
+      <multiplicity id="37" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="38">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="39" name="canale"/>      
+      <multiplicity id="40" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="41">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="18"/>  
+  </realization>  
+  <realization id="42">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <realization id="43">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="13"/>  
+  </realization>  
+  <realization id="44">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <realization id="45">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="9"/>  
+  </realization>  
+  <association id="46">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="47" name="serverRemoto"/>      
+      <multiplicity id="48" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="49">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="50" name="pingRemoto"/>      
+      <multiplicity id="51" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="52">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <realization id="53">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <realization id="54">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="13"/>  
+  </realization>  
+  <association id="55">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="56" name="clientRemoto"/>      
+      <multiplicity id="57" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="58">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <realization id="59">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="21"/>  
+  </realization>  
+  <realization id="60">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
