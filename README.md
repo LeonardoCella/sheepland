@@ -10,4 +10,4 @@ There are two possible way of interactions the first one by command line and the
 All the code is commented according to the Javadoc standard, for any doubts you can ask me by email. 
 In order to allow you to faster understand the program structure I leave in a proper folder (/media/uml) all the uml images.
 
-As I mentioned, for any information feel free to contact me at: \mailto{leonardocella@gmail.com}
+As I mentioned, for any information feel free to contact me at: leonardocella@gmail.com
